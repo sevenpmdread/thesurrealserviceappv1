@@ -1,0 +1,26 @@
+{
+  "title": "ColorTabs Material Demo",
+  "name": "colortabs-material-demo-forked",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.1/docs/src/pages/components/tabs/ColorTabs.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "4.12.3",
+    "@material-ui/utils": "4.11.2",
+    "@mui/icons-material": "5.0.1",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "5.3.0"
+  },
+  "version": "0.0.24",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
